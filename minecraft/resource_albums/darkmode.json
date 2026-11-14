@@ -1,0 +1,17 @@
+{
+  "id": "darkmode",
+  "name": {
+    "translate": "legacy.menu.albums.resource.darkmode"
+  },
+  "description": {
+    "translate": "legacy.menu.albums.resource.darkmode.description"
+  },
+  "icon": "legacy:comparisons/darkmode/icon",
+  "packs": [
+    "variants-cit:assetgen",
+    "vanilla",
+    "fabric",
+    "file/Default-Dark-Mode-Legacy4J-1.21.9+-1.3.0.zip",
+    "file/Legacy-Modpack-Resources.zip"
+  ]
+}

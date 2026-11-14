@@ -1,0 +1,18 @@
+{
+  "id": "pvp",
+  "name": {
+    "translate": "legacy.menu.albums.resource.pvp"
+  },
+  "description": {
+    "translate": "legacy.menu.albums.resource.pvp.description"
+  },
+  "icon": "legacy:comparisons/pvp/icon",
+  "packs": [
+    "variants-cit:assetgen",
+    "vanilla",
+    "fabric",
+    "file/shorterswords.zip",
+    "file/Short Shield.zip",
+    "file/Legacy-Modpack-Resources.zip"
+  ]
+}

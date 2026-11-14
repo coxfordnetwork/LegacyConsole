@@ -1,0 +1,9 @@
+/cape capture
+/gamemode creative
+//set stone
+/time set 0
+/time set night
+/time set midnight
+/time set day
+/time set noon
+/time set sunset
